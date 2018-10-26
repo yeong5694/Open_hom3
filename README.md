@@ -1,1 +1,1 @@
-THis is the file
+This is the file
